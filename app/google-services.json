@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1001498412907",
+    "firebase_url": "https://cho-yutube.firebaseio.com",
+    "project_id": "cho-yutube",
+    "storage_bucket": "cho-yutube.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001498412907:android:a2edad2afa60d2e845ee2e",
+        "android_client_info": {
+          "package_name": "com.example.login_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001498412907-b94vqnflga4b3lah8sckir6fob046cqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcnlklUKA8TAgxd7zzV84-X0r5np2zpco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001498412907-b94vqnflga4b3lah8sckir6fob046cqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
